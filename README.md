@@ -1,8 +1,11 @@
 # Tentacle Robotic Arm for Space Exploration and Asteroid Mining
 
 Author: Tega Orogun
+
 Institution: University of Surrey
+
 Degree: Master of Science in Computer Vision, Robotics, and Machine Learning
+
 Supervisor: Dr. Simon Hadfield
 
 # Project Overview 
