@@ -25,3 +25,8 @@ The project explores the robot’s assembly, control systems, and evaluation in 
 # Media
 
 ## Images
+
+## Videos
+
+![Tentacle Robotic Arm in Action](Robot_Media/Videos/Object_interaction_test_2.gif)
+
