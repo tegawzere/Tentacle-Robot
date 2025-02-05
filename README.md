@@ -25,7 +25,7 @@ The project explores the robot’s assembly, control systems, and evaluation in 
 # Media
 
 ## Images
-![Rviz Setup For Robot](Robot_Media/Assembly_Pictures/Screenshot from 2024-08-31 05-41-07.png)
+![Rviz Setup For Robot](Robot_Media/Assembly_Pictures/IMG_24A687776F3B-1.jpeg)
 
 ## Videos
 
