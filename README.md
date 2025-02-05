@@ -21,3 +21,7 @@ The project explores the robot’s assembly, control systems, and evaluation in 
 - Hardware: Utilizes Dynamixel MX-64 motors for high torque and precision, with a focus on achieving smooth, continuous movements.
 - Testing and Evaluation: The project includes object interaction and coil formation tests to demonstrate agility and flexibility.
 - Potential Applications: Suitable for tasks like asteroid mining, space exploration, and possibly other unstructured environments such as deep-sea exploration.
+
+# Media
+
+## Images
