@@ -31,5 +31,7 @@ The project explores the robot’s assembly, control systems, and evaluation in 
 
 ## Videos
 
+A link to a playlist of videos can be found here: https://www.youtube.com/playlist?list=PLdb2QF2oqoR2U0-6Y44sVXupoAS4qNoxw
+
 ![Tentacle Robotic Arm in Action](Robot_Media/Videos/Object_interaction_test_2.gif)
 
