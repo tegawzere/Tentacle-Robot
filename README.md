@@ -14,6 +14,8 @@ This repository contains the code, documentation, and design files for the Tenta
 
 The project explores the robot’s assembly, control systems, and evaluation in different test cases, demonstrating its capabilities for space applications. Future work involves incorporating advanced sensors and machine learning algorithms for autonomous operation in space.
 
+Read the full report here: [View My Project Documentation](Masters_Report.pdf)
+
 # Features 
 
 - Flexible Robotic Manipulation: The robot can perform precise, flexible movements, including forming complex shapes (e.g., coiling around objects) and interacting with dynamic targets.
