@@ -14,7 +14,7 @@ This repository contains the code, documentation, and design files for the Tenta
 
 The project explores the robot’s assembly, control systems, and evaluation in different test cases, demonstrating its capabilities for space applications. Future work involves incorporating advanced sensors and machine learning algorithms for autonomous operation in space.
 
-Read the full report here: [View My Project Documentation](Masters_Report.pdf)
+Read the full report here: [Project Dissertation/Report](Masters_Report.pdf)
 
 # Features 
 
